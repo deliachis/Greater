@@ -1,0 +1,11 @@
+a=20
+b=15
+if a>b:
+    print('a is greater than b')
+
+a=20
+b=25
+if a>b:
+    print('a is greater than b')
+elif b>a:
+    print('b is greater than a')
